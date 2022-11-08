@@ -1,0 +1,25 @@
+# Query: monesh venkul
+# ContextLines: 1
+
+5 results - 1 file
+
+index.html:
+     6  		<title>Raj Tripathi</title>
+     7: 		<meta name="description" content="Matresume is a material CV / Resume / Vcard / Portfolio HTML5 template by Monesh Venkul." />
+     8  		<meta name="keywords" content="material android, resume, responsive template, cv, multipurpose, portfolio, html5 template, themeforest.net, bootstrap, html5, creative, landing page, sass, clean, android, modern, angular js," />
+
+    37  						<!-- Title -->
+    38: 						<a href="index.html"><span class="mdl-layout-title">Raj tripathi </span></a>
+    39  						<div class="mdl-layout-spacer"></div>
+
+    71  							<div class="candidate-img-drawer mt-25 mb-20"></div>
+    72: 							<span class="candidate-name block mb-10 text-center">Raj tripathi  Vommi </span>
+    73  							<ul class="social-icons  mb-30">
+
+   179  						<div class="drawer-footer mt-50 mb-30 text-center">
+   180: 							<p class="font-12 mt-10">Raj tripathi &copy; 2019.</p>
+   181  						</div>
+
+  1004  							<h4>thank you for visiting.</h4>
+  1005: 							<p class="mt-10">Raj tripathi 2019. All rights reserved.</p>
+  1006  								<ul class="social-icons mt-10">
